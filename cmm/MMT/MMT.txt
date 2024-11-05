@@ -1,0 +1,19 @@
+<br> <div class="box_botsss">
+							<div class="topic_name">
+					
+					<div style="width:25px;float:left;margin-right: 3px;">
+						<img style="max-width:100%;max-height:100%;" 
+						src="5211.gif"  alt="Black Goku (1 Sao)" />	
+					</div>
+					
+					<div style="height:23px;display: table-cell; vertical-align: middle;">
+					<a style='color:white' href="index.php?for=forum&do=list&uid=19501081&p=0&sz=15" 
+					title="PHÁO HOA RỰC RỠ"><span style="color:#4d4025"><strong>KHAI MỞ MÁY CHỦ NGỌC RỒNG HUN</strong></a>
+					 
+										 
+					<span style="color:red"></span> 
+										</div>
+					<!--<div class="box_name_eman">bởi <a href="index.php?for=user&do=detail&uid=240504" title="Black Goku (1 Sao)">Black Goku (1 Sao)</a><span> Trả lời : 32</span><span> - Xem : 17544</span></div>-->
+				</div>
+			</div>
+					</div> </br>
